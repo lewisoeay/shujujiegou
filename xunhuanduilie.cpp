@@ -1,3 +1,5 @@
+#include<stdio.h>
+typedef struct
 
 
 
@@ -11,6 +13,4 @@
 
 
 
-
-C:\Users\trrtrt\Desktop\daima\zhizhen\zhizhen\xunhuanduilie.cpp
 
